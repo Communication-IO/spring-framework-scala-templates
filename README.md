@@ -1,0 +1,1 @@
+# spring-framework-scala-templates
